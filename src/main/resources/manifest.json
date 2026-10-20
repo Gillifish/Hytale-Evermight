@@ -1,0 +1,28 @@
+{
+    "Group": "Gillinet",
+    "Name": "Evermight",
+    "Version": "0.0.1",
+    "Description": "TBD",
+    "Authors": [
+        {
+            "Name": "Gillifish"
+        },
+        {
+            "Name": "Khight"
+        }
+    ],
+    "Website": "N/A",
+    "DisabledByDefault": false,
+    "IncludesAssetPack": true,
+    "Dependencies": {
+        "Hytale:AssetModule": "*"
+    },
+    "OptionalDependencies": {
+        
+    },
+    "ServerVersion": ">=0.5.3 <0.6.0",
+    "Main": "dev.gillinet.Evermight",
+    "UpdateChecker": {
+        "CurseForge": ""
+    }
+}
